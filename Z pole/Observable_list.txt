@@ -4,7 +4,7 @@
 
 
 Gamma_Z // The decay width of Z boson
-m_Z // The mass of Z boson
+Sigma_had // The xsec of hadronic decay of Z boson
 R_f // The ratio of decay width of Z to qq and Z to fermion pair
 R_e // R_f when f=electron
 R_mu // R_f when f=mu
