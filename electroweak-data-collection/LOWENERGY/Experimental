@@ -1,0 +1,8 @@
+// This is the experimental value of the observables
+// The first coloum is the names of observables, second coloum is the center value, third coloum is the error
+GveLV         -0.04   0.015
+GveLA         -0.507  0.014
+Geuavandgeda  0.4914  0.0031
+Gedavandgeuav -0.7148 0.0068
+Gedvaandgeuva -0.13   0.06
+Geeva         0.019   0.0027

@@ -1,0 +1,13 @@
+//This is the Matrix of Operator and Observable
+//The horizontal axis order of the observables are listed as below
+//Gamma_W,Br(W->e ve),Br(W->u vu),Br(ta vta)
+//The vertical axis order of the Operators are listed as below
+//CHQM,CHQP,CHt,CHtb,Ctw,Cbw,Ctb
+//Matrix
+2.17642*10^-10  4.14617*10^-8   4.14617*10^-8   4.14617*10^-8    
+-0.0000141777   -4.14627*10^-8  -4.14627*10^-8  -4.14627*10^-8  
+-0.000247789    1.63028*10^-12  1.63028*10^-12  1.63028*10^-12  
+-1.22448*10^-6  -1.64617*10^-9  -1.64617*10^-9  -1.64617*10^-9  
+1.21266*10^-9   -3.33125*10^-7  -3.33125*10^-7  -3.33125*10^-7  
+-0.0000308413   -1.90603*10^-8  -1.90603*10^-8  -1.90603*10^-8  
+0.000030840600  2.92595*10^-13  2.92595*10^-13  2.92595*10^-13  

@@ -1,0 +1,15 @@
+//This is the observable list of lowenergy
+
+GveLV \\g _ { L V } ^ { \nu e }\text { in }
+\frac { G _ { F } } { \sqrt { 2 } } \overline { \nu } \gamma _ { \mu } \left( 1 - \gamma ^ { 5 } \right) \nu \overline { e } \gamma ^ { \mu } \left( g _ { L V } ^ { \nu e } - g _ { L A } ^ { \nu e } \gamma ^ { 5 } \right) e
+
+GveLA \\g _ { L A } ^ { \nu e }\text { in }
+\frac { G _ { F } } { \sqrt { 2 } } \overline { \nu } \gamma _ { \mu } \left( 1 - \gamma ^ { 5 } \right) \nu \overline { e } \gamma ^ { \mu } \left( g _ { L V } ^ { \nu e } - g _ { L A } ^ { \nu e } \gamma ^ { 5 } \right) e
+ 
+Geuavandgedav \\g _ { A V } ^ { e u } + 2 g _ { A V } ^ { e d }
+\\g _ { A V } ^ { e u }\text { and } g _ { A V } ^ { e d }\text { in }- \frac { G _ { F } } { \sqrt { 2 } } \sum _ { q } \left[ g _ { A V } ^ { e q } \overline { e } \gamma _ { \mu } \gamma ^ { 5 } e \overline { q } \gamma ^ { \mu } q + g _ { V A } ^ { e q } \overline { e } \gamma _ { \mu } e \overline { q } \gamma ^ { \mu } \gamma ^ { 5 } q \right]
+Gedavandgeuav \\2 g _ { A V } ^ { e u } - g _ { A V } ^ { e d }
+\\g _ { V A } ^ { e u }\text { and } g _ { V A } ^ { e d }\text { in }- \frac { G _ { F } } { \sqrt { 2 } } \sum _ { q } \left[ g _ { A V } ^ { e q } \overline { e } \gamma _ { \mu } \gamma ^ { 5 } e \overline { q } \gamma ^ { \mu } q + g _ { V A } ^ { e q } \overline { e } \gamma _ { \mu } e \overline { q } \gamma ^ { \mu } \gamma ^ { 5 } q \right]
+Gedvaandgeuva \\2 g _ { V A } ^ { e u } - g _ { V A } ^ { e d }
+\\g _ { A V } ^ { e u }\text { and } g _ { A V } ^ { e d }\text { in }- \frac { G _ { F } } { \sqrt { 2 } } \sum _ { q } \left[ g _ { A V } ^ { e q } \overline { e } \gamma _ { \mu } \gamma ^ { 5 } e \overline { q } \gamma ^ { \mu } q + g _ { V A } ^ { e q } \overline { e } \gamma _ { \mu } e \overline { q } \gamma ^ { \mu } \gamma ^ { 5 } q \right]
+Geeva \\g _ { V A } ^ { e e }\text { in } - \frac { G _ { F } } { \sqrt { 2 } } g _ { A V } ^ { e e } \overline { e } \gamma _ { \mu } \gamma ^ { 5 } e \overline { e } \gamma ^ { \mu } e
