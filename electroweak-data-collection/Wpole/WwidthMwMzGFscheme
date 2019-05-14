@@ -1,0 +1,40 @@
+This is theoretical modification for W decay with six dimension operators
+
+Quantity,Gamma_W
+CHQM 0.0000308406
+CHQP -0.0000308413
+CHt  1.21266*10^-9
+CHtb -1.22448*10^-6
+Ctw  -0.000247789
+Cbw  -0.0000141777
+CtB  2.17642*10^-10
+
+Quantity,Br(W->e ve)
+CHQM 4.14617*10^-8
+CHQP -4.14627*10^-8
+CHt  1.63028*10^-12
+CHtb -1.64617*10^-9
+Ctw  -3.33125*10^-7
+Cbw  -1.90603*10^-8
+CtB  2.92595*10^-13
+
+Quantity,Br(W->u vu)
+CHQM 4.14617*10^-8
+CHQP -4.14627*10^-8
+CHt  1.63028*10^-12
+CHtb -1.64617*10^-9
+Ctw  -3.33125*10^-7
+Cbw  -1.90603*10^-8
+CtB  2.92595*10^-13
+
+Quantity,Br(W->ta vta)
+CHQM 4.14617*10^-8
+CHQP -4.14627*10^-8
+CHt  1.63028*10^-12
+CHtb -1.64617*10^-9
+Ctw  -3.33125*10^-7
+Cbw  -1.90603*10^-8
+CtB  2.92595*10^-13
+
+
+
