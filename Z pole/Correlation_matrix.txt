@@ -3,7 +3,7 @@
 //Reference arxiv:hep-ex/0509008(Table2.13) arxiv:hep-ex/0312023(Table5.2,concerned with b and c quark)
 
 //The order of the observables are listed as below
-Gamma_Z,sigma_had,R_e,R_mu,R_ta,AFB_e,AFB_mu,AFB_ta,R_b,R_c,AFB_b,AFB_c
+//Gamma_Z,sigma_had,R_e,R_mu,R_ta,AFB_e,AFB_mu,AFB_ta,R_b,R_c,AFB_b,AFB_c
 
 //Correlation Matrix
 1.000,-0.297,-0.011,0.008,0.006,0.007,0.002,0.001,0.000,0.000,0.000,0.000

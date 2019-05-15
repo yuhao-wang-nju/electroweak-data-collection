@@ -1,7 +1,4 @@
-//This is the obsevable list of Z pole
-
-
-
+//This is the observable list of Z pole
 
 Gamma_Z // The decay width of Z boson
 sigma_had // The xsec of hadronic decay of Z boson
