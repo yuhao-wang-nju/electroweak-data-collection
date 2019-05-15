@@ -1,1 +1,9 @@
-//
+//This is experimental value for W decay
+//The first column is quantity
+//The secondary column is experimental center value(GeV)
+//The third column is error
+Mw // The mass of W boson
+Gamma_W // The decay width of W boson 
+Br(w>e ve) // The branch ratio of W > e ve
+Br(w>u vu) // The branch ratio of W > u vu
+Br(w>ta vta) // The branch ratio of W > ta vta

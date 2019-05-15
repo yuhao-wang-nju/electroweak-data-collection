@@ -1,0 +1,9 @@
+//This is experimental value for W decay
+//The first column is quantity
+//The secondary column is experimental center value(GeV)
+//The third column is error
+Mw,80.385,0.015
+sigmma_w,2.085,0.042
+Br(w>e ve),0.1071,0.0016
+Br(w>u vu),0.1063,0.0015
+Br(w>ta vta),0.1138,0.0021
