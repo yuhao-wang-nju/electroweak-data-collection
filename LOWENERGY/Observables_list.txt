@@ -19,6 +19,4 @@ Geeva \\g _ { V A } ^ { e e }\text { in } - \frac { G _ { F } } { \sqrt { 2 } } 
 \\pdg2018 table10.8
 Rtrident \\ 2 \frac { g _ { L V } ^ { \nu _ { \mu } \mu , \mathrm { SM } } \delta g _ { L V } ^ { \nu _ { \mu } \mu } + g _ { L A } ^ { \nu _ { \mu } \mu , \mathrm { SM } } \delta g _ { L A } ^ { \nu _ { \mu } \mu } } { \left( g _ { L V } ^ { \nu _ { \mu } \mu , \mathrm { SM } } \right) ^ { 2 } + \left( g _ { L A } ^ { \nu _ { \mu } \mu , \mathrm { SM } } \right) ^ { 2 } }
 \\1706.03783 eq(3.27)
-Rtrident \\ 2 \frac { g _ { L V } ^ { \nu _ { \mu } \mu , \mathrm { SM } } \delta g _ { L V } ^ { \nu _ { \mu } \mu } + g _ { L A } ^ { \nu _ { \mu } \mu , \mathrm { SM } } \delta g _ { L A } ^ { \nu _ { \mu } \mu } } { \left( g _ { L V } ^ { \nu _ { \mu } \mu , \mathrm { SM } } \right) ^ { 2 } + \left( g _ { L A } ^ { \nu _ { \mu } \mu , \mathrm { SM } } \right) ^ { 2 } }
-\\1706.03783 eq(3.27)
 \\ Rtrident has been done by CHARM and CCFR

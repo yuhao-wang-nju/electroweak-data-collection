@@ -6,4 +6,4 @@ Gedavandgeuav,-0.7194
 Gedvaandgeuva,-0.0954 
 Geeva,0.0226
 Rtrident,1
-Rtrident,1
+
