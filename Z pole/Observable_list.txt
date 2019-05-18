@@ -2,17 +2,14 @@
 
 Gamma_Z // The decay width of Z boson
 sigma_had // The xsec of hadronic decay of Z boson
-R_f // The ratio of decay width of Z to qq and Z to fermion pair
 R_e // R_f when f=electron
 R_mu // R_f when f=mu
 R_ta // R_f when f=tau
-AFB_f // The Forward-Backward Asymmetry of the process e e > f f at Z pole
 AFB_e // AFB_f when f=e
 AFB_mu // AFB_f when f=mu
 AFB_ta // AFB_f when f=ta
 R_b // R_f when f=b
 R_c // R_f when f=c
-A_f // Polarize Asymmetry of the process e e > f f at Z pole
 A_e // A_f when f=e
 A_mu // A_f when f=mu
 A_ta // A_f when f=ta
