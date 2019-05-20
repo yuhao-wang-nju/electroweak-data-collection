@@ -1,7 +1,0 @@
-CHQM \\ \frac { i } { 2 } \left( \phi ^ { \dagger } D _ { \mu } \phi \right) \left( \overline { q } \gamma ^ { \mu } q \right) - \frac { i } { 2 } \left( \phi ^ { \dagger } \tau ^ { I } D _ { \mu } \phi \right) \left( \overline { q } \gamma ^ { \mu } \tau ^ { I } q \right) 
-CHQP \\ \frac { i } { 2 }\left( \phi ^ { \dagger } D _ { \mu } \phi \right) \left( \overline { q } \gamma ^ { \mu } q \right) + \frac { i } { 2 }\left( \phi ^ { \dagger } \tau ^ { I } D _ { \mu } \phi \right) \left( \overline { q } \gamma ^ { \mu } \tau ^ { I } q \right) 
-CHt \\ i \left( \phi ^ { \dagger } D _ { \mu } \phi \right) \left( \overline { t } \gamma ^ { \mu } t \right) 
-CHtb \\ i \left( \tilde { \phi } ^ { \dagger } D _ { \mu } \phi \right) \left( \overline { t } \gamma ^ { \mu } b \right) 
-Ctw \\ \left( \overline { q } \sigma ^ { \mu \nu } \tau ^ { I } t \right) \tilde { \phi } W _ { \mu \nu } ^ { I } 
-Cbw \\ \left( \overline { q } \sigma ^ { \mu \nu } \tau ^ { I } b \right) \phi W _ { \mu \nu } ^ { I } 
-Ctb \\ \left( \overline { q } \sigma ^ { \mu \nu } t \right) \tilde { \phi } B _ { \mu \nu }
