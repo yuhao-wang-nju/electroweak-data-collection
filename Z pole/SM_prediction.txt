@@ -1,0 +1,22 @@
+//This is the SM prediction of the observables
+
+
+//Reference arxiv:1503.07872 Table1
+Gamma_Z,2.4950
+sigma_had,41.484
+R_e,20.743
+R_mu,20.743
+R_ta,20.743
+AFB_e,0.0163
+AFB_mu,0.0163
+AFB_ta,0.0163
+R_b,0.21578
+R_c,0.17226
+AFB_b,0.1032
+AFB_c,0.0738
+A_e,0.1472
+A_mu,0.1472
+A_ta,0.1472
+A_b,0.935
+A_c,0.668
+A_s,0.935
