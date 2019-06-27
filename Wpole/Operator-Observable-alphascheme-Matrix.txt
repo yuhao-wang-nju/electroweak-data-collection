@@ -2,7 +2,7 @@
 //The horizontal axis order of the observables are listed as below
 Gamma_W,Br(W->e ve),Br(W->u vu),Br(w>ta vta),Mw
 //The vertical axis order of the Operators are listed as below
-cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,cth,cbH
+cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
 //Matrix
 -0.00483608,-6.50156*10^-6,-6.50156*10^-6,-6.50156*10^-6,0                                 
 0.00113472,1.5255*10^-6,1.5255*10^-6,1.5255*10^-6,0
