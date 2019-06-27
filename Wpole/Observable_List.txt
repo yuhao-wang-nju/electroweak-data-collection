@@ -5,5 +5,5 @@
 Gamma_W // The decay width of W boson 
 Br(w>e ve) // The branch ratio of W > e ve
 Br(w>u vu) // The branch ratio of W > u vu
-Br(w>ta vta) // The branch ratio of W > ta vta
+Br(w>tau vtau) // The branch ratio of W > ta vta
 Mw // The mass of W boson
