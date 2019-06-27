@@ -1,6 +1,6 @@
 // This is the Matrix of Operator and Observable
 //The horizontal axis order of the observables are listed as below
-GveLV,GveLA,Geuavandgedav,Gedavandgeuav,Gedvaandgeuva,Geeva,Rtrident,Rtrient
+GveLV,GveLA,Geuavandgedav,Gedavandgeuav,Gedvaandgeuva,Geeva,Rtrident,Rtrident
 //The vertical axis order of the Operators are listed as below
 CHQM,CHQP,CHt,CHtb,Ctw,Cbw,Ctb
 //Matrix
