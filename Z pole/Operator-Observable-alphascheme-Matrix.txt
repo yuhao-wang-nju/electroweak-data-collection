@@ -2,7 +2,7 @@
 //The horizontal axis order of the observables are listed as below
 Gamma_Z,sigma_had,R_e,R_mu,R_ta,AFB_e,AFB_mu,AFB_ta,R_b,R_c,AFB_b,AFB_c,A_e,A_mu,A_ta,A_b,A_c,A_s
 //The vertical axis order of the Operators are listed as below
-cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,cth,cbH
+cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
 //Matrix
 -0.00406855, 5.25119*10^-9, -0.00688195, -0.00688195, -0.00688195, -0.000591848, -0.000591848, -0.000591848, 0.0000171976, -0.0000227345, -0.00215262, -0.0016351, -0.00303803, -0.00303803, -0.00303803, -0.000248393, -0.00134962, -0.000248393
 0.0506175, -1.24507*10^-6, 0.606733, 0.606733, 0.606733, 0.000081375, 0.000081375, 0.000081375, 0.0235918, -0.00514699, 0.00118719, 0.000224815, 0.000417708, 0.000417708, 0.000417708, 0.00918365, 0.000185563, 0.0000341523
