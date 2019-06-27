@@ -6,5 +6,5 @@ Geuavandgedav,0.4914,0.0031
 Gedavandgeuav,-0.7148,0.0068
 Gedvaandgeuva,-0.13,0.06
 Geeva,0.019,0.0027
-Rtrident(CHARM),1.58,0.0057
-Rtrident(CCFR),0.82,0.0028
+Rtrident(CHARM),1.58,0.57
+Rtrident(CCFR),0.82,0.28
