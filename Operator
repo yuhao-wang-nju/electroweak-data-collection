@@ -1,215 +1,41 @@
-CHQM \\ $\frac{1}{2}$(\left( \varphi ^ { \dagger } \stackrel { \leftrightarrow } { i D } _ { \mu } \varphi \right) \left( \overline { Q } \gamma ^ { \mu } Q \right)-\left( \varphi ^ { \dagger } \stackrel { \leftrightarrow } { i D } _ { \mu } ^ { I } \varphi \right) \left( \overline { Q } \gamma ^ { \mu } \tau ^ { I } Q \right))} 
-CHQP \\ $\frac{1}{2}$(\left( \varphi ^ { \dagger } \stackrel { \leftrightarrow } { i D } _ { \mu } \varphi \right) \left( \overline { Q } \gamma ^ { \mu } Q \right)+\left( \varphi ^ { \dagger } \stackrel { \leftrightarrow } { i D } _ { \mu } ^ { I } \varphi \right) \left( \overline { Q } \gamma ^ { \mu } \tau ^ { I } Q \right)) 
-CHt \\  \left( \phi ^ { \dagger }  \stackrel { \leftrightarrow } { i D } _ { \mu } \phi \right) \left( \overline { t } \gamma ^ { \mu } t \right)
-CHtb \\ \left( \tilde { \phi } ^ { \dagger }  \stackrel { \leftrightarrow } { i D } _ { \mu } \phi \right) \left( \overline { t } \gamma ^ { \mu } b \right)
-Ctw \\ \left( \overline { q } \sigma ^ { \mu \nu } \tau ^ { I } t \right) \tilde { \phi } W _ { \mu \nu } ^ { I }+HC
-Cbw \\ \left( \overline { q } \sigma ^ { \mu \nu } \tau ^ { I } b \right) \phi W _ { \mu \nu } ^ { I }+HC 
-Ctb \\ \left( \overline { q } \sigma ^ { \mu \nu } t \right) \tilde { \phi } B _ { \mu \nu }+HC
-CHD \\ \left| H ^ { \dagger } D _ { \mu } H \right| ^ { 2 }
-C3HL \\ \left( H^ { \dagger } i \vec{D} _ { \mu } ^ { i } H \right) \left( \overline { L } \tau ^ { i } \gamma ^ { \mu } L \right)+HC
-CHWB \\H^ { \dagger } \tau ^ { I } H W _ { \mu \nu } ^ { I } B ^ { \mu \nu }
-CLLijji \\\left( \overline { L } \gamma _ { \mu } L \right) \left( \overline { L } \gamma ^ { \mu } L \right)_{ijji}
-CLLiijj \\\left( \overline { L } \gamma _ { \mu } L \right) \left( \overline { L } \gamma ^ { \mu } L \right)_{iijj}                     \\ Neutrino DIS and APV\nu -e scattering processes
-C1HL \\  \left(H ^ { \dagger } i \vec{D} _ { \mu } H \right) \left( \overline { L } \gamma ^ { \mu } L \right)+HC
-CLe \\ \left( \overline { L } \gamma _ { \mu } L \right) \left( \overline { e } _ { R } \gamma ^ { \mu } e _ { R } \right)
-CHe \\ \left( H ^ { \dagger } i \vec { D } _ { \mu } H \right) \left( \overline { e } _ { R } \gamma ^ { \mu } e _ { R } \right)_{11}+HC
-C1HQ \\\left( H^ { \dagger } i \vec{D} _ { \mu } H \right) \left( \overline { Q } \gamma ^ { \mu } Q \right)+HC \\Neutrino               \\DIS and APV u-e d-e scattering processe
-C3HQ \\\left( H ^ { \dagger } i \vec{D} _ { u } ^ { i } H \right) \left( \overline { Q } \tau ^ { i } \gamma ^ { \mu } Q \right)+HC
-CHu \\\left( H ^ { \dagger } i \vec { D } _ { \mu } H \right) \left( \overline { u } _ { R } \gamma ^ { \mu } u _ { R } \right)+HC
-CHd \\\left( H ^ { \dagger } i \vec { D } _ { \mu } H \right) \left( \overline { d } _ { R } \gamma ^ { \mu } d _ { R } \right)+HC
-C1LQ \\\left( \overline { L } \gamma _ { \mu } L \right) \left( \overline { Q } \gamma ^ { \mu } Q \right)
-C3LQ \\\left( \overline { L } \gamma _ { \mu } \tau ^ { i } L \right) \left( \overline { Q } \gamma ^ { \mu } \tau ^ { i } Q \right)
-CLU \\\left( \overline { L } \gamma _ { \mu } L \right) \left( \overline { u } _ { R } \gamma ^ { \mu } u _ { R } \right)
-CLD \\\left( \overline { L } \gamma _ { \mu } L \right) \left( \overline { d } _ { R } \gamma ^ { \mu } d _ { R } \right)
-CQe \\\left( \overline { Q } \gamma _ { \mu } Q \right) \left( \overline { e } _ { R } \gamma ^ { \mu } e _ { R } \right)
-CeU \\\left( \overline { e } _ { R } \gamma _ { \mu } e _ { R } \right) \left( \overline { u } _ { R } \gamma ^ { \mu } u _ { R } \right)
-CeD \\\left( \overline { e } _ { R } \gamma _ { \mu } e _ { R } \right) \left( \overline { d } _ { R } \gamma ^ { \mu } d _ { R } \right)
-Cee \\\left( \overline { e } \gamma _ { \mu } e \right) \left( \overline { e } \gamma ^ { \mu } e \right)                                \\Neutrino DIS and APV the parity-violating self-interaction of electrons
-C3HQ33 \\ \left( H ^ { \dagger } i \vec{D} _ { u } ^ { i } H \right) \left( \overline { Q } \tau ^ { i } \gamma ^ { \mu } Q \right)_{33}+HC \\ZpoleGammaZ
-C1HQ33 \\ \left( H^ { \dagger } i \vec{D} _ { \mu } H \right) \left( \overline { Q } \gamma ^ { \mu } Q \right)_{33}+HC
-CHd33 \\ \left( H ^ { \dagger } i \vec { D } _ { \mu } H \right) \left( \overline { d } _ { R } \gamma ^ { \mu } d _ { R } \right)_{33}+HC
-CHU33 \\\left(  H  ^ { \dagger } i \vec { D } _ { \mu } H \right) \left( \overline { u } _ { R } \gamma ^ { \mu } u _ { R } \right) _ { 33 } + H C \\eetoqqbaroffpole
-C1LQii33 \\\left( \overline { L } \gamma _ { \mu } L \right) \left( \overline { Q } \gamma ^ { \mu } Q \right) _ { ii33 }
-C3LQii33 \\ \left( \overline { L } \gamma _ { \mu } \tau ^ { i } L \right) \left( \overline { Q } \gamma ^ { \mu } \tau ^ { i } Q \right) _ {ii33}
-CLUii33 \\ \left( \overline{L} \gamma _ { \mu } L \right) \left( \overline { u } _ { R } \gamma ^ { \mu } u _ { R } \right) _ {ii33}
-CLDii33 \\ \left( \overline { L } \gamma _ { \mu } L \right) \left( \overline { d } _ { R } \gamma ^ { \mu } d _ { R } \right) _ {ii33}
-CQeii33 \\ \left( \overline { Q } \gamma _ { \mu } { Q } \right) \left( \overline { e } _ { R } \gamma ^ { \mu } e _ { R } \right) _ {ii33}
-CeUii33 \\ \left( \overline { e } _ { R } \gamma _ { \mu } e _ { R } \right) \left( \overline { u } _ { R } \gamma ^ { \mu } u _ { R } \right) _ {ii33}
-CeDii33 \\ \left( \overline { e } _ { R } \gamma _ { \mu } e _ { R } \right) \left( \overline { d } _ { R } \gamma ^ { \mu } d _ { R } \right) _ {ii33}
-CW \\ \varepsilon ^ { I J K } W _ { \mu } ^ { I \nu } W _ { \nu } ^ { J \rho } W _ { \rho } ^ { K \mu } \\eetoww
-CWwidetilde \\ \varepsilon ^ { I J K }\widetilde { W }  _ { \mu } ^{I\nu}  W_ { \nu } ^ { J \rho } W _ { \rho } ^ { K \mu }
-CWwidetildeB \\ H ^ { \dagger } \tau ^ { I } H \widetilde { W } _ { \mu \nu } ^ { I } B ^ { \mu \nu }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+cHQM         
+cHQP         
+cpt          
+CHtb         
+Ctw          
+Cbw          
+CtB          
+cpDC         
+cpl3         
+cpWB         
+cllp         
+cll          
+cpl          
+cle          
+cpe          
+cpq          
+cpq3         
+cpu          
+cpd          
+clq1         
+clq3         
+clu          
+cld          
+ceq          
+ceu          
+ced          
+cee          
+cpb          
+clQP         
+clt          
+clb          
+ceqt         
+cet          
+ceb          
+cW
+cbB
+ctH
+cbH
 
 
 
