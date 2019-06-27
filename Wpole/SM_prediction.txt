@@ -3,6 +3,6 @@
 \\The secondary column is SM_prediction value(GeV)
 Gamma_W,2.091,0
 Br(W>e ve),0.1083,0
-Br(w>u vu),0.1083,0
-Br(w>tau vtau),0.1083,0
+Br(W>u vu),0.1083,0
+Br(W>tau vtau),0.1083,0
 Mw,80.364,0
