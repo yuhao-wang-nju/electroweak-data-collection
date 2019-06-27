@@ -3,7 +3,7 @@
 //The secondary column is experimental center value(GeV)
 //The third column is error
 Gamma_W,2.085,0.042
-Br(w>e ve),0.1071,0.0016
-Br(w>u vu),0.1063,0.0015
-Br(w>tau vtau),0.1138,0.0021
+Br(W>e ve),0.1071,0.0016
+Br(W>u vu),0.1063,0.0015
+Br(W>tau vtau),0.1138,0.0021
 Mw,80.385,0.015
