@@ -1,8 +1,8 @@
 \\This is SM prediction for W decay
 \\The first column is quantity
 \\The secondary column is SM_prediction value(GeV)
-Gamma_W,2.091
-Br(W>e ve),0.1083
-Br(w>u vu),0.1083
-Br(w>tau vtau),0.1083
-Mw,80.364
+Gamma_W,2.091,0
+Br(W>e ve),0.1083,0
+Br(w>u vu),0.1083,0
+Br(w>tau vtau),0.1083,0
+Mw,80.364,0
