@@ -2,7 +2,7 @@
 //The horizontal axis order of the observables are listed as below
 GveLV,GveLA,Geuavandgedav,Gedavandgeuav,Gedvaandgeuva,Geeva,Rtrident,Rtrident
 //The vertical axis order of the Operators are listed as below
-cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cW,cbB,ctH,cbH
+cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
 //Matrix
 0.000814328,0.000646736,-0.000646736,0.00221953,0.00244298,-0.000814328,0.001874,0.001874    
 6.72828*10^-6,0.0000870677,-0.000087067,0.000127304,0.0000201848,-6.72828*10^-6,0.0000843998,0.0000843998
