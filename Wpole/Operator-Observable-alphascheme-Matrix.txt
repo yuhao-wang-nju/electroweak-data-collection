@@ -1,6 +1,6 @@
 //This is the Matrix of Operator and Observable
 //The horizontal axis order of the observables are listed as below
-Gamma_W,Br(W->e ve),Br(W->u vu),Br(w>tau vtau),Mw
+Gamma_W,Br(W->e ve),Br(W->u vu),Br(W>tau vtau),Mw
 //The vertical axis order of the Operators are listed as below
 cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
 //Matrix
