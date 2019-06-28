@@ -1,0 +1,9 @@
+//This is the SM prediction of the observables
+GveLV,-0.0398,0
+GveLA,-0.5063,0
+Geuavandgedav,0.4950,0
+Gedavandgeuav,-0.7194,0
+Gedvaandgeuva,-0.0954,0
+Geeva,0.0226,0
+Rtrident(CHARM),1,0
+Rtrident(CCFR),1,0

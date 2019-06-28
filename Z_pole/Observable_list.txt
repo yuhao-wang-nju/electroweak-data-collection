@@ -1,0 +1,22 @@
+//This is the observable list of Z pole
+
+Gamma_Z // The decay width of Z boson
+sigma_had // The xsec of hadronic decay of Z boson
+R_e // R_f when f=electron
+R_mu // R_f when f=mu
+R_ta // R_f when f=tau
+AFB_e // AFB_f when f=e
+AFB_mu // AFB_f when f=mu
+AFB_ta // AFB_f when f=ta
+R_b // R_f when f=b
+R_c // R_f when f=c
+AFB_b // AFB_f when f=b
+AFB_c // AFB_f when f=c
+A_e // A_f when f=e
+A_mu // A_f when f=mu
+A_ta // A_f when f=ta
+A_b // A_f when f=b
+A_c // A_f when f=c
+A_s // A_f when f=s
+A_e2 // A_f when f=e lep
+A_ta2 // A_f when f=mu lep
