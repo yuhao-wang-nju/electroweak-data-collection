@@ -5,7 +5,11 @@
 //The order of the observables are listed as below
 //Gamma_Z,sigma_had,R_e,R_mu,R_ta,AFB_e,AFB_mu,AFB_ta,R_b,R_c,AFB_b,AFB_c
 
-//Correlation Matrix
+//Correlation Matrix 1
+#corr1
+//Observables
+Gamma_Z,sigma_had,R_e,R_mu,R_ta,AFB_e,AFB_mu,AFB_ta,R_b,R_c,AFB_b,AFB_c
+//Matrix
 1.000,-0.297,-0.011,0.008,0.006,0.007,0.002,0.001,0.000,0.000,0.000,0.000
 -0.297,1.000,0.105,0.131,0.092,0.001,0.003,0.002,0.000,0.000,0.000,0.000
 -0.011,0.105,1.000,0.069,0.046,-0.371,0.020,0.013,0.000,0.000,0.000,0.000

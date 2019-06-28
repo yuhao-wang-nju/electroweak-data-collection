@@ -1,10 +1,17 @@
 //This is the correlation Matrix of low energy Observables
 //Reference:2018PDG table 10.8
 //The order of the observables are listed as below
+
+//Correlation Matrix 1
+#corr1
+//Observables
 GveLV,GveLA
-//Correlation Matrix
 1,-0.05
 -0.05,1
+
+//Correlation Matrix 2
+#corr2
+//Observables
 Geuavandgedav,Gedavandgeuav,Gedvaandgeuva
 //Correlation Matrix
 1,-0.88,0.19
