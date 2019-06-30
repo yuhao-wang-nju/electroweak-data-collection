@@ -1,0 +1,14 @@
+//This is the observable list of ee>ww process
+//sigma_i means the average xsec of ee>ww process in the No.i bin of cos_{\theta_W}
+
+sigma_WW // the xsec of ee>ww process
+sigma_1
+sigma_2
+sigma_3
+sigma_4
+sigma_5
+sigma_6
+sigma_7
+sigma_8
+sigma_9
+sigma_10
