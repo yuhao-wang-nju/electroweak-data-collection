@@ -1,6 +1,6 @@
 //This is the SM prediction of ee>ww when ecm at 206.6GeV
 
-sigma_WW@206.6,17.20
+sigma_WW@206.6,17.15
 sigma_1@206.6,0.53644
 sigma_2@206.6,0.62974
 sigma_3@206.6,0.79883
