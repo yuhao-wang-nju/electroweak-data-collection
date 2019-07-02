@@ -1,6 +1,6 @@
 //This is the Matrix of Operator and Observable
 //The horizontal axis order of the observables are listed as below
-sigma_WW@182.66GeV,sigma_1@182.66GeV,sigma_2@182.66GeV,sigma_3@182.66GeV,sigma_4@182.66GeV,sigma_5@182.66GeV,sigma_6@182.66GeV,sigma_7@182.66GeV,sigma_8@182.66GeV,sigma_9@182.66GeV,sigma_10@182.66GeV
+sigma_WW@182.66,sigma_1@182.66,sigma_2@182.66,sigma_3@182.66,sigma_4@182.66,sigma_5@182.66,sigma_6@182.66,sigma_7@182.66,sigma_8@182.66,sigma_9@182.66,sigma_10@182.66
 //different energy is seperated to different matrix
 //The vertical axis order of the Operators are listed as below
 cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
