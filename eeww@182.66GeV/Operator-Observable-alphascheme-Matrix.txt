@@ -3,7 +3,7 @@
 sigma_WW@182.66GeV,sigma_1@182.66GeV,sigma_2@182.66GeV,sigma_3@182.66GeV,sigma_4@182.66GeV,sigma_5@182.66GeV,sigma_6@182.66GeV,sigma_7@182.66GeV,sigma_8@182.66GeV,sigma_9@182.66GeV,sigma_10@182.66GeV
 //different energy is seperated to different matrix
 //The vertical axis order of the Operators are listed as below
-cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB
+cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
 
  //ecm=182.66GeV Matrix:
 -0.059238,-0.00138453,-0.00177195,-0.0022621,-0.00276547,-0.00353822,-0.00446782,-0.00596779,-0.00801962,-0.0114114,-0.0176492
