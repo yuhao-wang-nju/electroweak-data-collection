@@ -1,4 +1,4 @@
-// This is the experimental value of the observables
+// This is the experimental value of the observables from 1706.03783v3
 // The first coloum is the names of observables, second coloum is the center value, third coloum is the error
 GveLV,-0.04,0.015
 GveLA,-0.507,0.014
