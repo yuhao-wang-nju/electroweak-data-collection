@@ -4,8 +4,7 @@ sigma_WW@206.6,sigma_1@206.6,sigma_2@206.6,sigma_3@206.6,sigma_4@206.6,sigma_5@2
 //different energy is seperated to different matrix
 //The vertical axis order of the Operators are listed as below
 cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
-
-//ecm=206.6GeV Matrix:
+//Matrix:
 -0.0591744,-0.00119596,-0.00155899,-0.00211945,-0.00273277,-0.00355583,-0.00475794,-0.0064544,-0.00923681,-0.0143723,-0.0255605
 0.0142301,0.000508744,0.000563227,0.000684302,0.000811382,0.000985488,0.00124488,0.0016058,0.00219789,0.00328599,0.00557051
 0.0695927,0.00141533,0.00183323,0.00248686,0.00320567,0.00417373,0.00558972,0.00758907,0.0108664,0.01691,0.0300682
