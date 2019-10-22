@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/allenwang/Documents/root6-build/root/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang"
+        }
+    ],
+    "version": 4
+}
