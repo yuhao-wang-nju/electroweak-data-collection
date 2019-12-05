@@ -1,0 +1,26 @@
+//This is the SM prediction of eemm off pole afb
+
+AFB_m_1,0.705
+AFB_m_2,0.684
+AFB_m_3,0.610
+AFB_m_4,0.591
+AFB_m_5,0.576
+AFB_m_6,0.569
+AFB_m_7,0.566
+AFB_m_8,0.562
+AFB_m_9,0.558
+AFB_m_10,0.556
+AFB_m_11,0.553
+AFB_m_12,0.552
+AFB_ta_1,0.705
+AFB_ta_2,0.684
+AFB_ta_3,0.610
+AFB_ta_4,0.591
+AFB_ta_5,0.576
+AFB_ta_6,0.569
+AFB_ta_7,0.565
+AFB_ta_8,0.561
+AFB_ta_9,0.558
+AFB_ta_10,0.556
+AFB_ta_11,0.553
+AFB_ta_12,0.552

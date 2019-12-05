@@ -1,0 +1,26 @@
+//This is the observable list of eemm off pole afb
+
+AFB_m_1 // AFB_mu when ecm=130GeV
+AFB_m_2 // AFB_mu when ecm=136GeV
+AFB_m_3 // AFB_mu when ecm=161GeV
+AFB_m_4 // AFB_mu when ecm=172GeV
+AFB_m_5 // AFB_mu when ecm=183GeV
+AFB_m_6 // AFB_mu when ecm=189GeV
+AFB_m_7 // AFB_mu when ecm=192GeV
+AFB_m_8 // AFB_mu when ecm=196GeV
+AFB_m_9 // AFB_mu when ecm=200GeV
+AFB_m_10// AFB_mu when ecm=202GeV
+AFB_m_11// AFB_mu when ecm=205GeV
+AFB_m_12// AFB_mu when ecm=207GeV
+AFB_ta_1
+AFB_ta_2
+AFB_ta_3
+AFB_ta_4
+AFB_ta_5
+AFB_ta_6
+AFB_ta_7
+AFB_ta_8
+AFB_ta_9
+AFB_ta_10
+AFB_ta_11
+AFB_ta_12
