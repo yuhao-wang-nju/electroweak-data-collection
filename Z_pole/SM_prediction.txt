@@ -3,7 +3,7 @@
 
 //Reference arxiv:1503.07872 Table1,error is from pdg 
 Gamma_Z,2.4950,0.0008
-sigma_had,41.484,0.0008
+sigma_had,41.484,0.008
 R_e,20.743,0.01
 R_mu,20.743,0.01
 R_ta,20.743,0.01
