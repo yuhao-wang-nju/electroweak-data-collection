@@ -1,4 +1,7 @@
 //This is the SM prediction of the observables from 2018pdg table10.8
+//The first column is quantity
+//The secondary column is SM_prediction value(GeV)
+//The third column is error
 GveLV,-0.0398,0
 GveLA,-0.5063,0
 Geuavandgedav,0.4950,0
