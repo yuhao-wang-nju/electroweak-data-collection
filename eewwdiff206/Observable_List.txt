@@ -1,0 +1,13 @@
+//This is the observable list of ee>ww process at ecm=206.6GeV
+//sigma_i means the average xsec of ee>ww process in the No.i bin of cos_{\theta_W}
+
+sigma_1@206.6
+sigma_2@206.6
+sigma_3@206.6
+sigma_4@206.6
+sigma_5@206.6
+sigma_6@206.6
+sigma_7@206.6
+sigma_8@206.6
+sigma_9@206.6
+sigma_10@206.6
