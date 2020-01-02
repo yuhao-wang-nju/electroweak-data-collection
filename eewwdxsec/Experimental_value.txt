@@ -1,0 +1,11 @@
+//This is Experimental value of cross section of ee>ww at 8 energy points
+//183,189,192,196,200,202,205,207(GeV)
+
+xsec_eeww_1,15.92,0.34
+xsec_eeww_2,16.05,0.21
+xsec_eeww_3,16.42,0.47
+xsec_eeww_4,16.99,0.29
+xsec_eeww_5,16.77,0.29
+xsec_eeww_6,16.98,0.40
+xsec_eeww_7,16.81,0.29
+xsec_eeww_8,17.20,0.24

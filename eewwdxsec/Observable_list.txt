@@ -1,0 +1,11 @@
+//This is observable list of the cross section of ee>ww at 8 energy points
+//183,189,192,196,200,202,205,207(GeV)
+
+xsec_eeww_1
+xsec_eeww_2
+xsec_eeww_3
+xsec_eeww_4
+xsec_eeww_5
+xsec_eeww_6
+xsec_eeww_7
+xsec_eeww_8
