@@ -1,6 +1,6 @@
 //This is the Matrix of Operator and Observable
 //The horizontal axis order of the observables are listed as below
-sigma_WW@189.1,sigma_1@189.1,sigma_2@189.1,sigma_3@189.1,sigma_4@189.1,sigma_5@189.1,sigma_6@189.1,sigma_7@189.1,sigma_8@189.1,sigma_9@189.1,sigma_10@189.1
+sigma_1@189.1,sigma_2@189.1,sigma_3@189.1,sigma_4@189.1,sigma_5@189.1,sigma_6@189.1,sigma_7@189.1,sigma_8@189.1,sigma_9@189.1,sigma_10@189.1
 //different energy is seperated to different matrix
 //The vertical axis order of the Operators are listed as below
 cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
