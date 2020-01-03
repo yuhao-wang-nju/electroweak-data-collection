@@ -1,0 +1,15 @@
+//This is SM prediction of cross section of ee>mm at 12 energy points
+//130,136,161,172,183,189,192,196,200,202,205,207(GeV)
+
+xsec_eemm_1,8.455,0
+xsec_eemm_2,7.292,0
+xsec_eemm_3,4.610,0
+xsec_eemm_4,3.950,0
+xsec_eemm_5,3.444,0
+xsec_eemm_6,3.207,0
+xsec_eemm_7,3.096,0
+xsec_eemm_8,2.961,0
+xsec_eemm_9,2.833,0
+xsec_eemm_10,2.766,0
+xsec_eemm_11,2.673,0
+xsec_eemm_12,2.628,0

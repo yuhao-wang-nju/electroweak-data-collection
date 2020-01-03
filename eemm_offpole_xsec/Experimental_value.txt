@@ -1,0 +1,15 @@
+//This is Experimental value of cross section of ee>mm at 12 energy points
+//130,136,161,172,183,189,192,196,200,202,205,207(GeV)
+
+xsec_eemm_1,8.606,0.711169
+xsec_eemm_2,8.325,0.700532
+xsec_eemm_3,4.580,0.381077
+xsec_eemm_4,3.562,0.336043
+xsec_eemm_5,3.505,0.15096
+xsec_eemm_6,3.150,0.0766877
+xsec_eemm_7,2.926,0.181893
+xsec_eemm_8,2.994,0.111463
+xsec_eemm_9,3.072,0.10949
+xsec_eemm_10,2.709,0.146986
+xsec_eemm_11,2.464,0.0991413
+xsec_eemm_12,2.618,0.0792465

@@ -1,0 +1,15 @@
+//This is SM prediction of cross section of ee>tata at 12 energy points
+//130,136,161,172,183,189,192,196,200,202,205,207(GeV)
+
+xsec_eetata_1,8.452,0
+xsec_eetata_2,7.290,0
+xsec_eetata_3,4.610,0
+xsec_eetata_4,3.950,0
+xsec_eetata_5,3.444,0
+xsec_eetata_6,3.206,0
+xsec_eetata_7,3.096,0
+xsec_eetata_8,2.961,0
+xsec_eetata_9,2.832,0
+xsec_eetata_10,2.765,0
+xsec_eetata_11,2.672,0
+xsec_eetata_12,2.628,0

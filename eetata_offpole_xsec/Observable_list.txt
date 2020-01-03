@@ -1,0 +1,15 @@
+//This is Observable list of cross section of ee>tata at 12 energy points
+//130,136,161,172,183,189,192,196,200,202,205,207(GeV)
+
+xsec_eetata_1
+xsec_eetata_2
+xsec_eetata_3
+xsec_eetata_4
+xsec_eetata_5
+xsec_eetata_6
+xsec_eetata_7
+xsec_eetata_8
+xsec_eetata_9
+xsec_eetata_10
+xsec_eetata_11
+xsec_eetata_12
