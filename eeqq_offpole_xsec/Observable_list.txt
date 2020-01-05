@@ -1,0 +1,15 @@
+//This is Observable list of cross section of ee>qq at 12 energy points
+//130,136,161,172,183,189,192,196,200,202,205,207(GeV)
+
+xsec_eeqq_1
+xsec_eeqq_2
+xsec_eeqq_3
+xsec_eeqq_4
+xsec_eeqq_5
+xsec_eeqq_6
+xsec_eeqq_7
+xsec_eeqq_8
+xsec_eeqq_9
+xsec_eeqq_10
+xsec_eeqq_11
+xsec_eeqq_12

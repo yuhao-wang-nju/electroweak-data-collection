@@ -1,0 +1,15 @@
+//This is Experimental value of cross section of ee>qq at 12 energy points
+//130,136,161,172,183,189,192,196,200,202,205,207(GeV)
+
+xsec_eeqq_1,82.445,2.32671
+xsec_eeqq_1,66.984,2.05305
+xsec_eeqq_1,37.166,1.13507
+xsec_eeqq_1,29.350,1.04452
+xsec_eeqq_1,24.599,0.433097
+xsec_eeqq_1,22.492,0.237901
+xsec_eeqq_1,22.064,0.518168
+xsec_eeqq_1,20.307,0.309277
+xsec_eeqq_1,19.170,0.29852
+xsec_eeqq_1,18.873,0.419605
+xsec_eeqq_1,18.137,0.295115
+xsec_eeqq_1,17.316,0.227669

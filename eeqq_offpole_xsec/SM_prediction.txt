@@ -1,0 +1,16 @@
+//This is SM prediction of cross section of ee>qq at 12 energy points
+//130,136,161,172,183,189,192,196,200,202,205,207(GeV)
+
+
+xsec_eeqq_1,83.090,0
+xsec_eeqq_1,66.787,0
+xsec_eeqq_1,35.234,0
+xsec_eeqq_1,28.775,0
+xsec_eeqq_1,24.215,0
+xsec_eeqq_1,22.184,0
+xsec_eeqq_1,21.259,0
+xsec_eeqq_1,20.148,0
+xsec_eeqq_1,19.105,0
+xsec_eeqq_1,18.569,0
+xsec_eeqq_1,17.832,0
+xsec_eeqq_1,17.482,0
