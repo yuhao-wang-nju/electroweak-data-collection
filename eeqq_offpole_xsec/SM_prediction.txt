@@ -3,14 +3,14 @@
 
 
 xsec_eeqq_1,83.090,0
-xsec_eeqq_1,66.787,0
-xsec_eeqq_1,35.234,0
-xsec_eeqq_1,28.775,0
-xsec_eeqq_1,24.215,0
-xsec_eeqq_1,22.184,0
-xsec_eeqq_1,21.259,0
-xsec_eeqq_1,20.148,0
-xsec_eeqq_1,19.105,0
-xsec_eeqq_1,18.569,0
-xsec_eeqq_1,17.832,0
-xsec_eeqq_1,17.482,0
+xsec_eeqq_2,66.787,0
+xsec_eeqq_3,35.234,0
+xsec_eeqq_4,28.775,0
+xsec_eeqq_5,24.215,0
+xsec_eeqq_6,22.184,0
+xsec_eeqq_7,21.259,0
+xsec_eeqq_8,20.148,0
+xsec_eeqq_9,19.105,0
+xsec_eeqq_10,18.569,0
+xsec_eeqq_11,17.832,0
+xsec_eeqq_12,17.482,0

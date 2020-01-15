@@ -1,0 +1,10 @@
+//This is the SM_prediction of ee>cc cross section Ratio(defined as sigma_bb/sigma_bb)
+//The name is in the form of R_b_i, means the cross ratio of process ee>cc at energy_i
+//Totally, there are 6 energy as follows(GeV): 183,189,196,200,205,207.
+
+R_c_1,0.2472,0
+R_c_2,0.2490,0
+R_c_3,0.2508,0
+R_c_4,0.2518,0
+R_c_5,0.2530,0
+R_c_6,0.2533,0

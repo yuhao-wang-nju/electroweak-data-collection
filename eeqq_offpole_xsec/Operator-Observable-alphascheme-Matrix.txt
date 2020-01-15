@@ -1,7 +1,6 @@
 //This is the Matrix of Operator and Observable
 //The horizontal axis order of the observables are listed as below
 xsec_eeqq_1,xsec_eeqq_2,xsec_eeqq_3,xsec_eeqq_4,xsec_eeqq_5,xsec_eeqq_6,xsec_eeqq_7,xsec_eeqq_8,xsec_eeqq_9,xsec_eeqq_10,xsec_eeqq_11,xsec_eeqq_12
-//different energy is seperated to different matrix
 //The vertical axis order of the Operators are listed as below
 cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH,chb
 

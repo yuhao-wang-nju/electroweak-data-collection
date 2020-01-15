@@ -1,6 +1,6 @@
 //This is the Experimental value of ee>ee off pole differential cross section(Ref. 1302.3415)
 //The name is in the form of diffxsec_m_i_j, means the j-th bin of diffxsec of process ee>mm at energy_i
-//Totally, there are 7 energy as follows(GeV): 189,192,196,200,202,205,207. The first four energy points are not included.
+//Totally, there are 7 energy as follows(GeV): 189,192,196,200,202,205,207. 
 //The bin bound is:{-0.90,-0.72,-0.54,-0.36,-0.18,0.00,0.09,0.18,0.27,0.36,0.45,0.54,0.63,0.72,0.81,0.90}
 
 diffxsec_e_1_1,1.401,0.161
