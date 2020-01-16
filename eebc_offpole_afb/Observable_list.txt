@@ -1,5 +1,5 @@
-//This is the observable list of ee>cc cross section Ratio(defined as sigma_bb/sigma_bb)
-//The name is in the form of AFB_q_i, means the cross ratio of process ee>bb or ee>cc at energy_i
+//This is the observable list of ee>bb/cc afb(defined as sigma_bb/sigma_bb)
+//The name is in the form of AFB_q_i, means the afb of process ee>bb or ee>cc at energy_i
 //there are 8 energy for b as follows(GeV): 183,189,192,196,200,202,205,207. For c, the energy are 183,189
 
 AFB_b_1
