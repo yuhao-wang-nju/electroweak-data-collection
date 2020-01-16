@@ -1,0 +1,14 @@
+//This is the SM prediction of ee>cc cross section Ratio(defined as sigma_bb/sigma_bb)
+//The name is in the form of AFB_q_i, means the cross ratio of process ee>bb or ee>cc at energy_i
+//there are 8 energy for b as follows(GeV): 183,189,192,196,200,202,205,207. For c, the energy are 183,189
+
+AFB_b_1,0.588,0
+AFB_b_2,0.593,0
+AFB_b_3,0.595,0
+AFB_b_4,0.598,0
+AFB_b_5,0.600,0
+AFB_b_6,0.601,0
+AFB_b_7,0.603,0
+AFB_b_8,0.604,0
+AFB_c_1,0.663,0
+AFB_c_2,0.656,0
