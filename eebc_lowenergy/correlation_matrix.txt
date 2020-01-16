@@ -1,0 +1,9 @@
+//This is the correlation matrix of the observable
+//Observable oder is :
+xsec_b_58,xsec_c_58,afb_b_58,afb_c_58
+
+//Matrix
+1.00,-0.77,0.01,-0.17
+-0.77,1.00,-0.37,0.16
+0.01,-0.37,1.00,0.44
+-0.17,0.16,0.44,0.01
