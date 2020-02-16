@@ -1,6 +1,6 @@
 //This is the observable list of ee>bb cross section Ratio(defined as sigma_bb/sigma_bb)
 //The name is in the form of R_b_i, means the cross ratio of process ee>bb at energy_i
-//Totally, there are 8 energy as follows(GeV): 183,189,192,196,200,202,205,207.
+//Totally, there are 8 energy as follows(GeV): 133,167,183,189,192,196,200,202,205,207.
 
 R_b_1
 R_b_2
@@ -10,3 +10,5 @@ R_b_5
 R_b_6
 R_b_7
 R_b_8
+R_b_9
+R_b_10

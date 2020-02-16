@@ -1,7 +1,7 @@
 //This is the experimental value of ee>bb or ee>cc cross section and afb at 58GeV
 //The name is in the form of AFB_q_i, means the afb of process ee>bb or ee>cc at energy 58
 
-xsec_b_58,18.69,2.967
-xsec_c_58,42.6,8.26
+R_b_58,0.13,0.02
+R_c_58,0.36,0.05
 afb_b_58,-0.20,0.16
 afb_c_58,-0.17,0.14

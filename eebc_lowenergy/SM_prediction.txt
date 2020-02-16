@@ -1,7 +1,7 @@
 //This is the SM prediction of ee>bb or ee>cc cross section and afb at 58GeV
 //The name is in the form of AFB_q_i, means the afb of process ee>bb or ee>cc at energy 58
 
-xsec_b_58,18.46,0
-xsec_c_58,42.6,0
+R_b_58,0.13,0
+R_c_58,0.30,0
 afb_b_58,-0.43,0
 afb_c_58,-0.48,0
