@@ -1,6 +1,6 @@
 //This is the Matrix of Operator and Observable
 //The horizontal axis order of the observables are listed as below
-R_c_1,R_c_2,R_c_3,R_c_4,R_c_5,R_c_6,R_c_7,R_c_8
+R_c_1,R_c_2,R_c_3,R_c_4,R_c_5,R_c_6
 //The vertical axis order of the Operators are listed as below
 cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH,chb
 
