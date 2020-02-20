@@ -1,5 +1,8 @@
 //This is the correlation matrix of the observable
-//Observable oder is :
+//vertical Observables
+xsec_b_58,xsec_c_58,afb_b_58,afb_c_58
+
+//horizontal
 xsec_b_58,xsec_c_58,afb_b_58,afb_c_58
 
 //Matrix
