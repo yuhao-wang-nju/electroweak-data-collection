@@ -3,9 +3,9 @@
 sigma_1@198.38,sigma_2@198.38,sigma_3@198.38,sigma_4@198.38,sigma_5@198.38,sigma_6@198.38,sigma_7@198.38,sigma_8@198.38,sigma_9@198.38,sigma_10@198.38
 //different energy is seperated to different matrix
 //The vertical axis order of the Operators are listed as below
-cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH,chb
+cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
 
-//ecm=198.38GeV Matrix:
+//Matrix:
 -0.0052912,-0.00712936,-0.00651502,-0.00865754,-0.0130177,-0.0124946,-0.0222361,-0.0298776,-0.0343945,-0.0633179
 0.000402817,0.000326636,0.000965983,0.00104893,0.000650474,0.00195114,0.00090785,0.00150934,0.0047677,0.00593868
 0,0,0,0,0,0,0,0,0,0
@@ -42,6 +42,5 @@ cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,
 0,0,0,0,0,0,0,0,0,0
 0.0374746,0.034154,0.0287904,0.0251869,0.0198466,0.0126329,0.00661431,-0.00781944,-0.0318148,-0.0861124
 0.000263117,0.000369217,0.000381899,0.000520324,0.000756401,0.000828954,0.00134776,0.00187481,0.00243622,0.00437288
-0,0,0,0,0,0,0,0,0,0
 0,0,0,0,0,0,0,0,0,0
 0,0,0,0,0,0,0,0,0,0

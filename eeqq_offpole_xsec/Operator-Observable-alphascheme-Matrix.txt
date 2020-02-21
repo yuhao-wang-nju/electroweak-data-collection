@@ -2,7 +2,7 @@
 //The horizontal axis order of the observables are listed as below
 xsec_eeqq_1,xsec_eeqq_2,xsec_eeqq_3,xsec_eeqq_4,xsec_eeqq_5,xsec_eeqq_6,xsec_eeqq_7,xsec_eeqq_8,xsec_eeqq_9,xsec_eeqq_10,xsec_eeqq_11,xsec_eeqq_12
 //The vertical axis order of the Operators are listed as below
-cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH,chb
+cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,cpd,clq1,clq3,clu,cld,ceq,ceu,ced,cee,cpb,clQP,clt,clb,ceqt,cet,ceb,cWWW,cbB,ctH,cbH
 
 //Matrix
 -0.453434,-0.352019,-0.163811,-0.128023,-0.103258,-0.092721,-0.0878295,-0.0821147,-0.0769368,-0.0742419,-0.0704662,-0.0685894
@@ -43,4 +43,3 @@ cHQM,cHQP,cpt,cHtb,ctW,cbW,ctB,cpDC,cpl3,cpWB,cllp,cll,cpl,cle,cpe,cpq,cpq3,cpu,
 0.0111309,0.00837215,0.00332766,0.00243206,0.00181665,0.00157419,0.00145618,0.00132238,0.00121388,0.00115506,0.00106582,0.00102
 0,0,0,0,0,0,0,0,0,0,0,0
 0,0,0,0,0,0,0,0,0,0,0,0
--0.0120665,-0.00955969,-0.00468773,-0.00372497,-0.00304518,-0.0027569,-0.00262163,-0.00246203,-0.00231984,-0.00224587,-0.00213944,-0.00208725
