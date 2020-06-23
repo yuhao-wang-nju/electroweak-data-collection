@@ -1,6 +1,10 @@
 //This is the correlation of the observables
 //Reference 1302.3415 E.3
+//The vertical order of the observables are listed as below
+xsec_eeww_1,xsec_eeww_2,xsec_eeww_3,xsec_eeww_4,xsec_eeww_5,xsec_eeww_6,xsec_eeww_7,xsec_eeww_8
 
+//horizontal Observables
+xsec_eeww_1,xsec_eeww_2,xsec_eeww_3,xsec_eeww_4,xsec_eeww_5,xsec_eeww_6,xsec_eeww_7,xsec_eeww_8
 1.000,0.145,0.065,0.104,0.105,0.076,0.104,0.130
 0.145,1.000,0.093,0.148,0.149,0.108,0.148,0.186
 0.065,0.093,1.000,0.066,0.067,0.048,0.066,0.083
