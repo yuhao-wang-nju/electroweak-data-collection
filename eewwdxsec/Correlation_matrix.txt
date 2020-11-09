@@ -5,6 +5,8 @@ xsec_eeww_1,xsec_eeww_2,xsec_eeww_3,xsec_eeww_4,xsec_eeww_5,xsec_eeww_6,xsec_eew
 
 //horizontal Observables
 xsec_eeww_1,xsec_eeww_2,xsec_eeww_3,xsec_eeww_4,xsec_eeww_5,xsec_eeww_6,xsec_eeww_7,xsec_eeww_8
+
+//Matrix:
 1.000,0.145,0.065,0.104,0.105,0.076,0.104,0.130
 0.145,1.000,0.093,0.148,0.149,0.108,0.148,0.186
 0.065,0.093,1.000,0.066,0.067,0.048,0.066,0.083
