@@ -1,0 +1,14 @@
+//This is the prediction for the future collider: Fcc
+//The data is taken from the cds
+
+Gamma_Z,2.4950,0.0001
+R_e,20.743,0.001
+R_mu,20.743,0.001
+R_ta,20.743,0.001
+R_b,0.21578,0.00006
+R_c,0.17226,0.00025
+sigma_had,41.484,0.004
+AFB_b,0.1032,0.0003
+A_ta,0.1472,0.0002
+Mw,80.364,0.0006
+Gamma_W,2.091,0.0012

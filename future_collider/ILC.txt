@@ -1,0 +1,14 @@
+//This is the prediction for the future collider: ILC
+//The data is taken from the 
+
+Mw,80.364,0.0024
+Gamma_Z,2.4950,0.001
+sigma_had,41.484,0.0165
+A_e,0.1472,0.000076
+R_e,20.743,0.011
+R_mu,20.743,0.006
+R_ta,20.743,0.009
+R_b,0.21578,0.00015
+A_b,0.935,0.00047
+R_c,0.17226,0.00052
+A_c,0.668,0.0007

@@ -1,0 +1,7 @@
+//This is the prediction for the future collider: CLIC
+//The data is taken from the JHEP12(2019)117
+
+R_e,20.743,0.0027
+R_mu,20.743,0.0027
+R_ta,20.743,0.006
+R_b,0.21578,0.00176
