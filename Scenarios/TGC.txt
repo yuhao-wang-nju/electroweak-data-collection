@@ -1,0 +1,11 @@
+//This is the Matrix of Operator and Observable
+//The horizontal axis order of the observables are listed as below
+cpWB,cllp,cpDC,cpl3,cpe,cpl,cpq3,cWWW,cHQM,cHQP,cpt,cpb,cHtb,cbW,ctW,ctB,cbB
+//different energy is seperated to different matrix
+//The vertical axis order of the Operators are listed as below
+GZ,KappaGamma,LambdaGamma
+
+//Matrix
+0,0,15.419381774709528,-12.6402445629943,-7.709690887354763,-3.854845443677381,-12.640244562994297,0,0,0,0,0,0,0,0,0,0
+9.1092041710643,2.1595249584307682e-15,-20.121769713672055,-2.965536803475456e-15,10.06088485683603,5.030442428418016,-4.04529928269084e-15,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,-16.959768156018054,0,0,0,0,0,0,0,0,0
