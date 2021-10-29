@@ -1,0 +1,11 @@
+//This is the Matrix of Operator and Observable
+//The horizontal axis order of the observables are listed as below
+R_b_58,R_c_58,afb_b_58,afb_c_58
+//The vertical axis order of the Operators are listed as below
+cHQP,cpb,cbW,cbB
+
+//Matrix
+0.00657008, -0.00211803, 0.00170584, 0.
+-0.00153791, 0.000495783, 0.0233973, 0.
+0.00377563, -0.00121717, 0.00818131, 0.
+-0.00467619, 0.00150749, -0.0051695, 0.

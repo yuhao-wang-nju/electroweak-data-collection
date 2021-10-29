@@ -1,6 +1,6 @@
 //This is the Experimental value of ee>bb/cc AFB and cross section Ratio(defined as sigma_bb/sigma_bb)
 //The name is in the form of AFB_q_i, means the cross ratio of process ee>bb or ee>cc at energy_i
-//there are 10 energy for b as follows(GeV): 133,167,183,189,192,196,200,202,205,207. For c, the energy are 133,167,183,189
+//there are 10 energy for b as follows(GeV): 133,167,183,189,192,196,200,202,205,207. For c, the energy are 183,189,196,200,205,207
 
 AFB_b_1,0.367,0.251
 AFB_b_2,0.624,0.254

@@ -1,0 +1,11 @@
+//This is the Matrix of Operator and Observable
+//The horizontal axis order of the observables are listed as below
+xsec_eeqq_1,xsec_eeqq_2,xsec_eeqq_3,xsec_eeqq_4,xsec_eeqq_5,xsec_eeqq_6,xsec_eeqq_7,xsec_eeqq_8,xsec_eeqq_9,xsec_eeqq_10,xsec_eeqq_11,xsec_eeqq_12
+//The vertical axis order of the Operators are listed as below
+cHQP,cpb,cbW,cbB
+
+//Matrix
+1.82668, 1.4013, 0.637495, 0.496787, 0.362064, 0.361653, 0.34361, 0.32214, 0.302362, 0.29245, 0.27887, 0.272161
+-0.290528, -0.220837, -0.097681, -0.0754569, -0.0544081, -0.0543464, -0.0515522, -0.048233, -0.0451853, -0.043664, -0.0415815, -0.0405466
+0.392385, 0.314434, 0.164252, 0.133726, 0.112248, 0.102711, 0.0983735, 0.0931675, 0.0884147, 0.0857831, 0.0823414, 0.0807019
+-0.0228733, -0.0404682, -0.0549008, -0.0526979, -0.0496048, -0.0476648, -0.0466547, -0.0453751, -0.0441128, -0.0432846, -0.0422173, -0.0417963
