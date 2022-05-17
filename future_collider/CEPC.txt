@@ -1,22 +1,40 @@
 //This is the prediction for the future collider: CEPC
 //The data is taken from the 
 
-Gamma_Z,2.4950,0.0005
-sigma_had,41.484,0.005
-R_e,20.743,0.005
-R_mu,20.743,0.002
-R_ta,20.743,0.003
-AFB_e,0.0163,0.00018
-AFB_mu,0.0163,0.000075
-AFB_ta,0.0163,0.000075
-AFB_b,0.1032,0.0001
-AFB_c,0.0738,0.0002
-A_e,0.1472,0.000015
-A_ta,0.1472,0.00007
-Mw,80.364,0.001
-Gamma_W,2.091,0.0028
-Br(W>e ve),0.1083,3e-5
-Br(W>u vu),0.1083,3e-5
-Br(W>tau vtau),0.1083,4e-5
-R_b,0.21578,0.00004
-R_c,0.17226,0.0002
+Gamma_Z,2.4950,0.0001
+R_e,20.743,0.001
+R_mu,20.743,0.001
+R_ta,20.743,0.001
+R_b,0.21578,0.00006
+R_c,0.17226,0.00026
+sigma_had,41.484,0.004
+AFB_b,0.1032,0.0003
+A_ta,0.1472,0.0002
+Mw,80.364,0.0005
+Gamma_W,2.091,0.0012
+xsec_eeqq_3,35.234,0.001
+xsec_eetata_3,4.610,0.0005
+xsec_eemm_3,4.610,0.0004
+xsec_eeqq_12,17.482,0.0018
+xsec_eetata_12,2.628,0.009
+xsec_eemm_12,2.628,0.0007
+diffxsec_ta_12_1,0.481,0.001
+diffxsec_ta_12_2,0.456,0.001
+diffxsec_ta_12_3,0.510,0.001
+diffxsec_ta_12_4,0.644,0.001
+diffxsec_ta_12_5,0.855,0.001
+diffxsec_ta_12_6,1.145,0.001
+diffxsec_ta_12_7,1.514,0.001
+diffxsec_ta_12_8,1.962,0.002
+diffxsec_ta_12_9,2.489,0.002
+diffxsec_ta_12_10,3.085,0.004
+diffxsec_m_12_1,0.481,0.0007
+diffxsec_m_12_2,0.456,0.0006
+diffxsec_m_12_3,0.510,0.0006
+diffxsec_m_12_4,0.643,0.0007
+diffxsec_m_12_5,0.855,0.0008
+diffxsec_m_12_6,1.145,0.001
+diffxsec_m_12_7,1.515,0.001
+diffxsec_m_12_8,1.963,0.001
+diffxsec_m_12_9,2.489,0.001
+diffxsec_m_12_10,3.086,0.002
